@@ -14,4 +14,4 @@
 print("Hello")
 ```
 
-![2匹の犬](two_dogs.jpg)
+![2匹の犬](./two_dogs.jpg)
